@@ -1,10 +1,10 @@
 Hi 👋 My name is David Lezcano
 ==============================
 
-Full Stack Web Developer
+Full Stack Web Developer, Photographer nad path to UX Designer 
 ------------------------
 
-* 🌍  I'm based in Chaco, Argentina
+* 🌍  I'm based in Argentina
 * 🧠  I'm learning React and React Native
 * 🤝  I'm open to collaborating on all projects
 
