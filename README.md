@@ -5,7 +5,7 @@ Full Stack Web Developer, Photographer and path to UX Designer
 --------------------------------------------------------------
 
 * 🌍  I'm based in Argentina
-* 🧠  I'm currrently learning React and React Native
+* 🧠  I'm currrently learning PHP, Laravel and Symphony
 * 🔭 I’m currently working on my projects
 * 🤝  I'm open to collaborating on all projects
 
