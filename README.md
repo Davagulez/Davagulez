@@ -6,7 +6,7 @@ Full Stack Web Developer, Photographer and path to UX Designer
 
 * 🌍  I'm based in Argentina
 * 🧠  I'm currrently learning PHP, Laravel and Symphony
-* 🔭 I’m currently working on my projects
+* 🔭 I’m currently working in a company with a team, maintaining the platform and planning new projects, I also work with a team carrying out projects for companies
 * 🤝  I'm open to collaborating on all projects
 
 ### Skills
