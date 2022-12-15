@@ -1,7 +1,7 @@
 Hi 👋 My name is David Lezcano
 ==============================
 
-Full Stack Web Developer, Photographer and path to UX Designer
+Backend Developer, Photographer and path to UX Designer
 --------------------------------------------------------------
 
 * 🌍  I'm based in Argentina
