@@ -1,13 +1,13 @@
-Hi 👋 My name is David Lezcano
+Hola 👋 soy David Lezcano
 ==============================
 
-Backend Developer, Photographer and path to UX Designer
+Full Stack Web Developer, trabajando como Backend Developer
 --------------------------------------------------------------
 
-* 🌍  I'm based in Argentina
-* 🧠  I'm currrently learning PHP, Laravel and Symphony
-* 🔭 I’m currently working in a company as a backend developer, together with a team, maintaining the platform and planning new projects. Also, Im working with a team carrying out projects for companies
-* 🤝  I'm open to collaborating on all projects
+* 🌍  Vivo en Chaco,Argentina
+* 🧠  Actualmente aprendiendo PHP, Laravel y Symfony
+* 🔭 Actualmente trabajando como Backend, realizando tareas de mantenimiento de plataforma y actualizaciones. Y trabajando con un equipo generando soluciones digitales para distintas empresas.
+* 🤝  Abierto a colaborar con proyectos que manejen lenguajes de JS,PHP y SQL. 
 
 ### Skills
 
