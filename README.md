@@ -6,7 +6,7 @@ Full Stack Web Developer, trabajando como Backend Developer
 
 * 🌍  Vivo en Chaco,Argentina
 * 🔭 Actualmente trabajando como Backend, realizando tareas de mantenimiento de plataforma y actualizaciones. Y trabajando freelance generando soluciones digitales para distintas empresas.
-* 🤝  Abierto a colaborar con proyectos que manejen lenguajes de JS,PHP y SQL. 
+* 🤝  Abierto a colaborar con proyectos que manejen lenguajes de JS, PHP, PYTHON y SQL. 
 
 ### Skills
 
